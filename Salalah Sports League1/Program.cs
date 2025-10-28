@@ -1,11 +1,6 @@
 ﻿using _4_Projects.Salalah_Sports_League.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace _4_Projects.Salalah_Sports_League
+namespace Salalah_Sports_League1
 {
     internal class Program
     {

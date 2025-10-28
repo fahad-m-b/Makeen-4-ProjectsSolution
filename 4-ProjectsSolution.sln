@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salalah Sports League", "4-Projects\Salalah Sports League.csproj", "{6AD4E38D-6CA9-4D65-8439-3C3C49C2DAF1}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salalah Delivery Express", "Salalah Delivery Express\Salalah Delivery Express.csproj", "{0E186930-39F2-423A-9DED-414D30B463BA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salalah Book Café", "Salalah Book Café\Salalah Book Café.csproj", "{334BF57D-31AA-4D56-8D9E-A6835521A4EF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dhofar Car Rental", "Dhofar Car Rental\Dhofar Car Rental.csproj", "{DC3DCAD7-601E-4DB4-A03D-3A0075765D40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salalah Sports League", "Salalah Sports League1\Salalah Sports League.csproj", "{018D405D-7C8E-4711-BDD6-E609E241287D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6AD4E38D-6CA9-4D65-8439-3C3C49C2DAF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6AD4E38D-6CA9-4D65-8439-3C3C49C2DAF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6AD4E38D-6CA9-4D65-8439-3C3C49C2DAF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6AD4E38D-6CA9-4D65-8439-3C3C49C2DAF1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0E186930-39F2-423A-9DED-414D30B463BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0E186930-39F2-423A-9DED-414D30B463BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E186930-39F2-423A-9DED-414D30B463BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +29,10 @@ Global
 		{DC3DCAD7-601E-4DB4-A03D-3A0075765D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC3DCAD7-601E-4DB4-A03D-3A0075765D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC3DCAD7-601E-4DB4-A03D-3A0075765D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{018D405D-7C8E-4711-BDD6-E609E241287D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{018D405D-7C8E-4711-BDD6-E609E241287D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{018D405D-7C8E-4711-BDD6-E609E241287D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{018D405D-7C8E-4711-BDD6-E609E241287D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
