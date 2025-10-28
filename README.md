@@ -8,9 +8,9 @@ Each project demonstrates practical problem-solving using **Object-Oriented Prog
 
 ## 📘 Table of Contents
 - [Project 1 — Salalah Delivery Express](Salalah Delivery Express/Salalah Delivery Express)  
-- [Project 2 — Salalah Book Café](#-project-2-—-salalah-book-café)  
-- [Project 3 — Dhofar Car Rental](#-project-3-—-dhofar-car-rental)  
-- [Project 4 — Salalah Sports League](#-project-4-—-salalah-sports-league)  
+- [Project 2 — Salalah Book Café](Salalah Book Café/Salalah Book Café/Models)  
+- [Project 3 — Dhofar Car Rental](Dhofar Car Rental/Dhofar Car Rental/Models)  
+- [Project 4 — Salalah Sports League](4-Projects/Salalah Sports League/Models)  
 - [Concepts Covered](#-concepts-covered)  
 - [Author](#-author)  
 
